@@ -99,3 +99,13 @@ POSSIBLE_RESPONSES = ["As I see it, yes.",
 "Who am I to get in the way of a good time?", 
 "Maybe you should sleep on it", 
 "Mom said no"]
+
+# ALL THOUGHTS THE 8 BALL COULD SAY
+POSSIBLE_THOUGHTS = [
+    "I am thinking...",
+    "I am consulting the ancient scriptures...",
+    "The stars have aligned! And they say...",
+    "And the polls say...",
+    "I don't get paid enough 8-ball currency for this. Anyways...",
+    "A very tough question. Hmmm..."
+]
